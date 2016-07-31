@@ -15,13 +15,16 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
 3. Elevador
    * **Elevador.java**: Classe que contém dados de Elevador
    * **usaElevador.java**: Função que utiliza a classe de Elevador (por exemplo, subir e descer andares)
-4. Lampada
+2. Despertador
+   * **Despertador.java**: Classe que contém dados de Despertador
+   * **usaDespertador.java**: Função que utiliza a classe de Despertador (por exemplo, definir a hora)
+5. Lampada
    * **Lampada.java**: Classe que contém dados de Lampada
    * **usaLampada.java**: Função que utiliza a classe de Lampada (por exemplo, apagar e verificar se está acessa)
-5. Maior_Numero
+6. Maior_Numero
    * **MaiorNum.java**: Classe que contém dados de Maior Número
    * **usaMaior.java**: Função que utiliza a classe de Maior Número (por exemplo, o maior valor digitado)
-6. Par_Impar
+7. Par_Impar
    * **fazParImpar.java**: Função que utiliza a classe de Par Ímpar
    * **ParImpar.java**: Classe que contém dados de Par Ímpar (por exemplo, se o valor é par ou ímpar)
 	
