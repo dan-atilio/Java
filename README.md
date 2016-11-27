@@ -30,6 +30,7 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
 	
 ####Fontes
    * **classeTst.java**: Teste de função utilizando serialVersionUID
+   * **compArq.java**: Função que compara palavras entre dois arquivos TXT
    * **criaTxt.java**: Função para criação de TXT
    * **criaXML.java**: Função para criação de XML
    * **exBlog.java**: Exemplo de JFrame e componentes
