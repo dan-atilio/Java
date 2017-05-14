@@ -33,6 +33,7 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
    * **compArq.java**: Função que compara palavras entre dois arquivos TXT
    * **criaTxt.java**: Função para criação de TXT
    * **criaXML.java**: Função para criação de XML
+   * **editTxt.java**: Função para edição de TXT
    * **exBlog.java**: Exemplo de JFrame e componentes
    * **exemploTry.java**: Exemplo de Try e Catch
    * **leTxt.java**: Função para leitura de TXT
